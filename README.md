@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-<h1>Link: reacttaskcomplete.netlify.app</h1>
+Link: https://reacttaskcomplete.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
