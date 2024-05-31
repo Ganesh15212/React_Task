@@ -1,0 +1,40 @@
+{
+  "User": [
+    {
+      "id": "56f3",
+      "employee_no": "1",
+      "employee_name": "Ganesh",
+      "department": "Front End",
+      "designation": "Front End",
+      "hired_date": "2023-06-10",
+      "salary": "20000"
+    },
+    {
+      "id": "ecac",
+      "employee_no": "2",
+      "employee_name": "Jatin",
+      "department": "Front End",
+      "designation": "Front End",
+      "hired_date": "2023-06-20",
+      "salary": "31000"
+    },
+    {
+      "id": "1e0b",
+      "employee_no": "3",
+      "employee_name": "Mayur",
+      "department": "Full Stack",
+      "designation": "Full Stack",
+      "hired_date": "2023-06-30",
+      "salary": "35000"
+    },
+    {
+      "id": "a69e",
+      "employee_no": "4",
+      "employee_name": "Dilip",
+      "department": "Back End",
+      "designation": "Back End",
+      "hired_date": "2023-07-10",
+      "salary": "35000"
+    }
+  ]
+}
